@@ -1,0 +1,5 @@
+language: ruby
+ruby:
+  -'2.2.3p173'
+
+script: ruby test/testunitarios.rb
