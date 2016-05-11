@@ -1,7 +1,3 @@
 language: ruby
 rvm:
- - 2.2
- - jruby
- - rbx-2
-
-script: ruby test/testunitarios.rb
+ - 2.0.0-p247
