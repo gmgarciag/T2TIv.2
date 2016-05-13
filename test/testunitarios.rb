@@ -5,7 +5,7 @@ class testunitarios < Test::Unit::TestCase
 
 	def nombreTest 
 		## Tiene que ir un assert
-
+		assert true
 	end
 
 
