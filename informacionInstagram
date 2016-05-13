@@ -1,0 +1,14 @@
+
+CLIENT INFO
+CLIENT ID	9d76ac85e96f40f9975ee4221afd1656
+CLIENT SECRET	e88c8d6f25a5446b8e1212f8a0122316
+WEBSITE URL	https://tarea-deploy.herokuapp.com/
+REDIRECT URI	https://tarea-deploy.herokuapp.com/
+SUPPORT EMAIL	gonxagarcia@hotmail.com
+
+
+https://www.instagram.com/oauth/authorize/?client_id=9d76ac85e96f40f9975ee4221afd1656&redirect_uri=https://tarea-deploy.herokuapp.com/&response_type=token&scope=public_content
+
+
+
+486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b
