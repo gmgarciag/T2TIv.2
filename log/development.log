@@ -1413,3 +1413,10 @@ Processing by InicioController#partir as */*
   Parameters: {"tag"=>"matrijochan", "token"=>"486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b"}
 Can't verify CSRF token authenticity
 Completed 200 OK in 1943ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/inicio/partir" for 127.0.0.1 at 2016-05-13 18:28:59 -0300
+Processing by InicioController#partir as */*
+  Parameters: {"tag"=>"matrijochan", "token"=>"486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b"}
+Can't verify CSRF token authenticity
+Completed 200 OK in 1837ms (Views: 1.7ms | ActiveRecord: 0.0ms)
