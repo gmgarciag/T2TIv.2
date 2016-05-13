@@ -1405,3 +1405,4 @@ Processing by InicioController#partir as */*
   Parameters: {"tag"=>"matrijochan", "token"=>"486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b"}
 Can't verify CSRF token authenticity
 Completed 200 OK in 1762ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
