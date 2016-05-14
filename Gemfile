@@ -15,6 +15,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'rest-client'
 
+gem 'coveralls', require: false
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
