@@ -1,5 +1,7 @@
 language: ruby
 rvm:
-  - 2.0.0-p247
-
-script: ruby test/testunitarios.rb
+- 2.0.0-p247
+##script: ruby test/testunitarios.rb
+deploy:
+  api_key:
+    secure: cDE1TxA/hwJSWyvim8Fr1n3y++pD9DOOjKPJdcbzBOMhbSO1zGWaQgWnC8s/bkcdcshbv2Q5TpNlvpUPwzccBNGDAE33SrXX+eS1XrLmyaGXeFYra3YgkWOvd1khxsg4i2YRPZswZgei95QtNi9Z5uoSeoFpcJ7epKjqS/9oQzBGDVTf6+guTYVvatOK+vLEKZi1ODSg17u2uPB98fI+vGism2ZyAGvxjslXALTfcVPvEm6E7UUX1F3lqekJcV/lgP1dbrD0zUn0Hws3/W57ZxMzrElnN9ZXR2PNzKhYaXgXj1jXGIHYC4yePyjpB2QrprpaCisO+BcejH5AjBk02fXvarWKfhb+yKMf9iEdwBilR9OgYf8ed7Ze9TEn8WMJ39GMazLjtC1U3z5tAdfLrG9fmAAmIu5gsVzTABZFHnfl4zvwqB3D27ostlCc6P0Rzz0lUS8o6P9r4g6pmx6UctcKA2itWsINKGiJ1XHmYZWZwjev9FQj0vPeIUzp3EzPfLv+rBk5yZbRC1BO9b3qsd43FUHrVJgJ8XVycGgfDt5LgVpEPCQLXCxG5GHYgYiv+qZnN47CnGk8NqtK6UYs4D/tvSugWDVKNY4LvPGQrn5y64eL0Ho/ktt3+ORgI4uGmcAKksO1VGPptceiTivTRBC+Tv3mPyz5Ve4uoHzmAmk=
