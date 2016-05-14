@@ -1,6 +1,9 @@
 language: ruby
 rvm:
 - 2.0.0-p247
+
+script: bundle exec rake
+
 ##script: ruby test/testunitarios.rb
 deploy:
   provider: heroku
