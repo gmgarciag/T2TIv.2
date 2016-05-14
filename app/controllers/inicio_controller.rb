@@ -5,7 +5,7 @@ require 'json'
   	status = 200
   	begin
 	  	parametroTag = params[:tag]
-	  	parametroAtoken = params[:token]
+	  	parametroAtoken = params[:access_token]
 		##parametroAtoken = '486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b'
 	  	## ACCES TOKEN CLASE 2019746130.59a3f2b.86a0135240404ed5b908a14c0a2d9402
 	  	## ACCES TOKEN MIO 486552130.9d76ac8.24245417ae7f4614a078f2ed435b1a7b
