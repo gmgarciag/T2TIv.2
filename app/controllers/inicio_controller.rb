@@ -42,14 +42,14 @@ require 'json'
 	  		 			:caption => post['caption']['text']})
 	  		arregloPost << jsonPost
 	  	end
-	  	version = '1.2.0'
+	  	version = '1.3.0'
 	  rescue
 	  	status = 400
 	  end
   	## version string con la version del servicio
   	## Si tiene los parametros incorrectos http 400
   	render :status => status, json: {metadata: metadata,
-  				post: arregloPost,
+  				posts: arregloPost,
   				version: version}
 
 
