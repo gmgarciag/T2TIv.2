@@ -42,7 +42,7 @@ require 'json'
 	  		 			:caption => post['caption']['text']})
 	  		arregloPost << jsonPost
 	  	end
-	  	version = '1.2.0'
+	  	version = '1.3.0'
 	  rescue
 	  	status = 400
 	  end
